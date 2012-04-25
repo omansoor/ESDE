@@ -1,0 +1,29 @@
+Read me (Syed Mansoor Ali and Ding Yi , embedded 
+============================
+1. Installing the developer tools:
+installing visual studio express for windows phone development is a one click task detailed here:
+
+http://create.msdn.com/en-US/education/quickstarts/Get_Started_Creating_a_Windows_Phone_Application#installing_the_tools
+
+download the csharp tools from the above link and install.
+
+
+2. Emulator for the phone comes prepackaged with the installation, so there is no need to install an emulator separately.
+
+
+3. Opening the project
+Unzip the project folder to a single location.
+        locate the *.sln (solution file) and double click to open, this will open the source files and project in visual studio express for windows phone.
+the solution should contain two projects within, one for the main application and second for the background agent which should be visible in the 
+project explorer window within visual studio 2010 express.
+
+        rebuild the solution file by pressing ctrl+shift+b or go to Debug then click Build solution.
+
+4. in order to run the project or debug locate and press the 'run' button on the tool bar on the top.
+
+5. Contents of the project folder
+project for main application: EmbeddedSystemProject 
+
+project for background agent: ScheduledTaskAgent
+graphic assets
+sound assets : censor-beep-1.mp3

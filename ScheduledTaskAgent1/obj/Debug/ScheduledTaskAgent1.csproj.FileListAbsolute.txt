@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\Expression\Blend 4\Projects\EmbeddedSystemsProject\ScheduledTaskAgent1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Expression\Blend 4\Projects\EmbeddedSystemsProject\ScheduledTaskAgent1\Bin\Debug\ScheduledTaskAgent1.dll
+C:\Users\Administrator\Documents\Expression\Blend 4\Projects\EmbeddedSystemsProject\ScheduledTaskAgent1\Bin\Debug\ScheduledTaskAgent1.pdb
+C:\Users\Administrator\Documents\Expression\Blend 4\Projects\EmbeddedSystemsProject\ScheduledTaskAgent1\obj\Debug\ScheduledTaskAgent1.dll
+C:\Users\Administrator\Documents\Expression\Blend 4\Projects\EmbeddedSystemsProject\ScheduledTaskAgent1\obj\Debug\ScheduledTaskAgent1.pdb
